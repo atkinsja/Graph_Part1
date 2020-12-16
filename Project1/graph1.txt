@@ -1,0 +1,10 @@
+Atlanta    Austin  475    Buffalo  550   Chicago  925   Dallas  625   Denver  800    Houston  650   Newark   725  Washington  600  #
+Austin     Buffalo    425 #
+Buffalo     Chicago    625 Dallas 100 #
+Chicago     Dallas   1500  Washington  550   New_York  950   #
+Dallas     Denver  1250   Chicago  1500   #
+Denver     Houston  875     Chicago   550  #
+Houston     Newark     1050 #
+Newark     New_York     50  #
+New_York     Washington  500   Buffalo  5000  Chicago 500 #
+Washington    Austin    325 #
